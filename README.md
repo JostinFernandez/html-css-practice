@@ -1,2 +1,2 @@
 # html-css-practice
-Simple Projects for practicing.
+Simple HTML & CSS Practice Project.
